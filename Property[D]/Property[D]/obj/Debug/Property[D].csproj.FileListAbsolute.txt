@@ -1,0 +1,14 @@
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Property[D]\Property[D]\bin\Debug\Property[D].exe.config
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Property[D]\Property[D]\bin\Debug\Property[D].exe
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Property[D]\Property[D]\bin\Debug\Property[D].pdb
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Property[D]\Property[D]\obj\Debug\Property[D].csproj.AssemblyReference.cache
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Property[D]\Property[D]\obj\Debug\Property[D].csproj.CoreCompileInputs.cache
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Property[D]\Property[D]\obj\Debug\Property[D].exe
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Property[D]\Property[D]\obj\Debug\Property[D].pdb
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Property[D]\Property[D]\Property[D]\bin\Debug\Property[D].exe.config
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Property[D]\Property[D]\Property[D]\bin\Debug\Property[D].exe
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Property[D]\Property[D]\Property[D]\bin\Debug\Property[D].pdb
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Property[D]\Property[D]\Property[D]\obj\Debug\Property[D].csproj.AssemblyReference.cache
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Property[D]\Property[D]\Property[D]\obj\Debug\Property[D].csproj.CoreCompileInputs.cache
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Property[D]\Property[D]\Property[D]\obj\Debug\Property[D].exe
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Property[D]\Property[D]\Property[D]\obj\Debug\Property[D].pdb
