@@ -1,0 +1,12 @@
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Data Type[D]\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Data Type[D]\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Data Type[D]\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Data Type[D]\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Data Type[D]\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Data Type[D]\MyLibrary\obj\Debug\MyLibrary.pdb
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Data Type[D]\Data Type[D]\MyLibrary\bin\Debug\MyLibrary.dll
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Data Type[D]\Data Type[D]\MyLibrary\bin\Debug\MyLibrary.pdb
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Data Type[D]\Data Type[D]\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Data Type[D]\Data Type[D]\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Data Type[D]\Data Type[D]\MyLibrary\obj\Debug\MyLibrary.dll
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Data Type[D]\Data Type[D]\MyLibrary\obj\Debug\MyLibrary.pdb
