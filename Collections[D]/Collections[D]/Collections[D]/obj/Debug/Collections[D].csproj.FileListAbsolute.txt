@@ -1,0 +1,7 @@
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Collections[D]\Collections[D]\bin\Debug\Collections[D].exe.config
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Collections[D]\Collections[D]\bin\Debug\Collections[D].exe
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Collections[D]\Collections[D]\bin\Debug\Collections[D].pdb
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Collections[D]\Collections[D]\obj\Debug\Collections[D].csproj.AssemblyReference.cache
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Collections[D]\Collections[D]\obj\Debug\Collections[D].csproj.CoreCompileInputs.cache
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Collections[D]\Collections[D]\obj\Debug\Collections[D].exe
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Collections[D]\Collections[D]\obj\Debug\Collections[D].pdb

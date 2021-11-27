@@ -1,0 +1,7 @@
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Abstraction[D]\Abstraction[D]\bin\Debug\Abstraction[D].exe.config
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Abstraction[D]\Abstraction[D]\bin\Debug\Abstraction[D].exe
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Abstraction[D]\Abstraction[D]\bin\Debug\Abstraction[D].pdb
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Abstraction[D]\Abstraction[D]\obj\Debug\Abstraction[D].csproj.AssemblyReference.cache
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Abstraction[D]\Abstraction[D]\obj\Debug\Abstraction[D].csproj.CoreCompileInputs.cache
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Abstraction[D]\Abstraction[D]\obj\Debug\Abstraction[D].exe
+C:\Users\Victor Stany Rozario\Documents\Visual Studio 2019\Projects\Fall 2021-22\Abstraction[D]\Abstraction[D]\obj\Debug\Abstraction[D].pdb

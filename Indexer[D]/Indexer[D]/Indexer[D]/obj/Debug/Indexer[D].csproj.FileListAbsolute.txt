@@ -1,0 +1,14 @@
+C:\Users\V. Stany\Documents\Visual Studio 2019\Projects\Fall 2021-22\Indexer[D]\Indexer[D]\bin\Debug\Indexer[D].exe.config
+C:\Users\V. Stany\Documents\Visual Studio 2019\Projects\Fall 2021-22\Indexer[D]\Indexer[D]\bin\Debug\Indexer[D].exe
+C:\Users\V. Stany\Documents\Visual Studio 2019\Projects\Fall 2021-22\Indexer[D]\Indexer[D]\bin\Debug\Indexer[D].pdb
+C:\Users\V. Stany\Documents\Visual Studio 2019\Projects\Fall 2021-22\Indexer[D]\Indexer[D]\obj\Debug\Indexer[D].csproj.AssemblyReference.cache
+C:\Users\V. Stany\Documents\Visual Studio 2019\Projects\Fall 2021-22\Indexer[D]\Indexer[D]\obj\Debug\Indexer[D].csproj.CoreCompileInputs.cache
+C:\Users\V. Stany\Documents\Visual Studio 2019\Projects\Fall 2021-22\Indexer[D]\Indexer[D]\obj\Debug\Indexer[D].exe
+C:\Users\V. Stany\Documents\Visual Studio 2019\Projects\Fall 2021-22\Indexer[D]\Indexer[D]\obj\Debug\Indexer[D].pdb
+C:\Users\MARUF\Downloads\Indexer[D]\Indexer[D]\Indexer[D]\bin\Debug\Indexer[D].exe.config
+C:\Users\MARUF\Downloads\Indexer[D]\Indexer[D]\Indexer[D]\bin\Debug\Indexer[D].exe
+C:\Users\MARUF\Downloads\Indexer[D]\Indexer[D]\Indexer[D]\bin\Debug\Indexer[D].pdb
+C:\Users\MARUF\Downloads\Indexer[D]\Indexer[D]\Indexer[D]\obj\Debug\Indexer[D].csproj.AssemblyReference.cache
+C:\Users\MARUF\Downloads\Indexer[D]\Indexer[D]\Indexer[D]\obj\Debug\Indexer[D].csproj.CoreCompileInputs.cache
+C:\Users\MARUF\Downloads\Indexer[D]\Indexer[D]\Indexer[D]\obj\Debug\Indexer[D].exe
+C:\Users\MARUF\Downloads\Indexer[D]\Indexer[D]\Indexer[D]\obj\Debug\Indexer[D].pdb

@@ -1,0 +1,21 @@
+C:\Users\V. Stany\Documents\Visual Studio 2019\Projects\Fall 2021-22\Delegate[D]\Delegate[D]\bin\Debug\Delegate[D].exe.config
+C:\Users\V. Stany\Documents\Visual Studio 2019\Projects\Fall 2021-22\Delegate[D]\Delegate[D]\bin\Debug\Delegate[D].exe
+C:\Users\V. Stany\Documents\Visual Studio 2019\Projects\Fall 2021-22\Delegate[D]\Delegate[D]\bin\Debug\Delegate[D].pdb
+C:\Users\V. Stany\Documents\Visual Studio 2019\Projects\Fall 2021-22\Delegate[D]\Delegate[D]\obj\Debug\Delegate[D].csproj.AssemblyReference.cache
+C:\Users\V. Stany\Documents\Visual Studio 2019\Projects\Fall 2021-22\Delegate[D]\Delegate[D]\obj\Debug\Delegate[D].csproj.CoreCompileInputs.cache
+C:\Users\V. Stany\Documents\Visual Studio 2019\Projects\Fall 2021-22\Delegate[D]\Delegate[D]\obj\Debug\Delegate[D].exe
+C:\Users\V. Stany\Documents\Visual Studio 2019\Projects\Fall 2021-22\Delegate[D]\Delegate[D]\obj\Debug\Delegate[D].pdb
+C:\Users\MARUF\Downloads\Delegate[D]\Delegate[D]\Delegate[D]\bin\Debug\Delegate[D].exe.config
+C:\Users\MARUF\Downloads\Delegate[D]\Delegate[D]\Delegate[D]\bin\Debug\Delegate[D].exe
+C:\Users\MARUF\Downloads\Delegate[D]\Delegate[D]\Delegate[D]\bin\Debug\Delegate[D].pdb
+C:\Users\MARUF\Downloads\Delegate[D]\Delegate[D]\Delegate[D]\obj\Debug\Delegate[D].csproj.AssemblyReference.cache
+C:\Users\MARUF\Downloads\Delegate[D]\Delegate[D]\Delegate[D]\obj\Debug\Delegate[D].csproj.CoreCompileInputs.cache
+C:\Users\MARUF\Downloads\Delegate[D]\Delegate[D]\Delegate[D]\obj\Debug\Delegate[D].exe
+C:\Users\MARUF\Downloads\Delegate[D]\Delegate[D]\Delegate[D]\obj\Debug\Delegate[D].pdb
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Finalterm\Delegate[D]\Delegate[D]\Delegate[D]\bin\Debug\Delegate[D].exe.config
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Finalterm\Delegate[D]\Delegate[D]\Delegate[D]\bin\Debug\Delegate[D].exe
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Finalterm\Delegate[D]\Delegate[D]\Delegate[D]\bin\Debug\Delegate[D].pdb
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Finalterm\Delegate[D]\Delegate[D]\Delegate[D]\obj\Debug\Delegate[D].csproj.AssemblyReference.cache
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Finalterm\Delegate[D]\Delegate[D]\Delegate[D]\obj\Debug\Delegate[D].csproj.CoreCompileInputs.cache
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Finalterm\Delegate[D]\Delegate[D]\Delegate[D]\obj\Debug\Delegate[D].exe
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Finalterm\Delegate[D]\Delegate[D]\Delegate[D]\obj\Debug\Delegate[D].pdb
