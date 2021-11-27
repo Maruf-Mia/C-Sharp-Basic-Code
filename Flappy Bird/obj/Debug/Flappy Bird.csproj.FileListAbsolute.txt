@@ -1,0 +1,16 @@
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\bin\Debug\Flappy Bird.exe
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\bin\Debug\Flappy Bird.pdb
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\obj\Debug\Flappy Bird.csprojAssemblyReference.cache
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\obj\Debug\Flappy_Bird.FormBig.resources
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\obj\Debug\Flappy Bird.exe
+D:\work\asp.net C#\Csharp-projects-main\Flappy Bird\obj\Debug\Flappy Bird.pdb
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Flappy Bird\obj\Debug\Flappy Bird.csproj.AssemblyReference.cache
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Flappy Bird\obj\Debug\Flappy Bird.exe
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Flappy Bird\obj\Debug\Flappy Bird.pdb
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Projects\Flappy Bird\obj\Debug\Flappy Bird.csproj.AssemblyReference.cache
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Projects\Flappy Bird\obj\Debug\Flappy Bird.exe
+G:\OBJECT ORIENTED PROGRAMMING 2 [D]\Projects\Flappy Bird\obj\Debug\Flappy Bird.pdb
